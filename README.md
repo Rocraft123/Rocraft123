@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Rocraft123
 - 👀 I’m interested in coding :)
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email
+- 🌱 I’m currently learning minecraft modding
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really like coding!
 - yes i really am just the avrage coder ;)
